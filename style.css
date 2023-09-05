@@ -244,3 +244,136 @@ section{
     cursor: pointer;
   }
   /* On Line Game Section End */
+
+
+  /* Play Instantly Section Start */
+.play-instantly{
+    padding-top: 80px;
+    display: flex;
+    justify-content: space-between;
+    gap: 150px;
+  }
+  .play-instantly-text{
+    text-align: right;
+    padding-top: 100px;
+  }
+  .play-instantly-text h2{
+    width: 353px;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 60px; 
+  }
+  .play-instantly-text p{
+    width: 353px;
+    color: #534C64;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+  }
+  .play-instantly-img img{
+    width: 500px;
+  }
+  .img-2 img{
+    width: 250px;
+    position: relative;
+    bottom: 220px;
+    right: 90px;
+    border-radius: 8px;
+  }
+  /* Play Instantly Section End */
+  
+  /* Play Game Section Start */
+  .play-games{
+    display: flex;
+    justify-content: space-between;
+    gap: 80px;
+  }
+  .play-games-img img{
+    width: 450px;
+    height: 450px;
+  }
+  .img2 img{
+    width: 215px;
+    height: 215px;
+    position: relative;
+    left: 280px;
+    bottom: 160px;
+  }
+  .play-games-text{
+    padding-top: 80px;
+  }
+  .play-games-text h2{
+    width: 426px;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60px; 
+  }
+  .play-games-text p{
+    margin-top: 24px;
+    width: 483px;
+    color: #534C64;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; 
+  }
+  /* Play Games Section End */
+  
+  /* Carresrs Section Start */
+  .carresrs{
+    background: linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%);
+    display: flex;
+    justify-content: space-between;
+  }
+  .carresrs-img img{
+    width: 708px;
+    height: 720px;
+  }
+  .carresrs-text{
+    margin: 50px 0px;
+  }
+  .carresrs-text h1{
+    color: #FFF;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60px; 
+  }
+  .carresrs-text p{
+    width: 500px;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+  }
+  .list{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+  }
+  .list-1 li{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 35px; 
+  }
+  .list-2{
+    color: #FFF;
+    text-align: right;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 40px; 
+  }
+  .carresrs button{
+    margin-top: 30px;
+    display: inline-flex;
+    padding: 16px 40px;
+    gap: 10px;
+    border: none;
+    border-radius: 48px;
+    background: #FFF;
+    color: #F948B2;
+    font-size: 18px;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+  /* Carrers Section End */
