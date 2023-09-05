@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Work Sans', sans-serif;
+    list-style: none;
+    text-decoration: none;
+  }
+
+  /* Header Section Start */
+header{
+    padding: 30px 140px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .logo{
+    width: 253.041px;
+    height: 53px;
+  }
+  .navbar ul{
+    display: flex;
+  }
+  .navbar ul li{
+    margin-right: 25px;
+  }
+  .navbar ul li a{
+    color: #3C354F;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 10px;
+  }
+  .follow-us{
+    background-image: url(images/Rectangle\ 1.png);
+    padding: 10px;
+    position: relative;
+    bottom: 8px;
+    border-radius: 8px;
+  }
+  .follow-us a{
+    position: relative;
+    bottom: 8px;
+  }
+  .youtube{
+    width: 33.916px;
+  height: 24px;
+  flex-shrink: 0;
+  }
+  .tiktok{
+    width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  }
+  /* Header Section End */
